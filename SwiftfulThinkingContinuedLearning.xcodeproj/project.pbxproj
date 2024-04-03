@@ -41,6 +41,7 @@
 		AF76C8CA28F058B400BC2DC8 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF76C8C928F058B400BC2DC8 /* MultipleSheetsBootcamp.swift */; };
 		AF82519428FAE9C70002603F /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82519328FAE9C70002603F /* WeakSelfBootcamp.swift */; };
 		AF82519628FAEF2C0002603F /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF82519528FAEF2C0002603F /* TypealiasBootcamp.swift */; };
+		AF845AB32BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF845AB22BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift */; };
 		AF886A5A28EF58080036AAA9 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF886A5928EF58080036AAA9 /* DragGestureBootcamp.swift */; };
 		AF886A5C28EF5C180036AAA9 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF886A5B28EF5C180036AAA9 /* DragGestureBootcamp2.swift */; };
 		AF96517428FC2CFF007BEB5E /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF96517328FC2CFF007BEB5E /* EscapingBootcamp.swift */; };
@@ -91,6 +92,7 @@
 		AF76C8C928F058B400BC2DC8 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		AF82519328FAE9C70002603F /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		AF82519528FAEF2C0002603F /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
+		AF845AB22BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityVoiceOverBootcamp.swift; sourceTree = "<group>"; };
 		AF886A5928EF58080036AAA9 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		AF886A5B28EF5C180036AAA9 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		AF96517328FC2CFF007BEB5E /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
@@ -170,6 +172,7 @@
 				AF5D979428F1A86300151816 /* Sounds */,
 				AFDBCF482AB1F9550076EB6F /* AccessibilityTextBootcamp.swift */,
 				AF6065C62B87B04D00D09B9D /* AccessibilityColorsBootcamp.swift */,
+				AF845AB22BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift */,
 				AF53AE3328EEFD12004816EC /* Assets.xcassets */,
 				AF53AE3528EEFD12004816EC /* Preview Content */,
 			);
@@ -345,6 +348,7 @@
 				AF53AE4028EF0268004816EC /* MagnificationGestureBootcamp.swift in Sources */,
 				AFEA62D1290562CD00100030 /* ImageLoadingViewModel.swift in Sources */,
 				AF76C8C828F04D1100BC2DC8 /* GeometryReaderBootcamp.swift in Sources */,
+				AF845AB32BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift in Sources */,
 				AF5D979A28F1AA7400151816 /* HapticsBootcamp.swift in Sources */,
 				AFEA62C529055A3400100030 /* DownloadingImagesBootcamp.swift in Sources */,
 				AFEA62C929055B9F00100030 /* DownloadingImagesViewModel.swift in Sources */,
