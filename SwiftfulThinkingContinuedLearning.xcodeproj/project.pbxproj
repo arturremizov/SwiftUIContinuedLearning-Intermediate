@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF0688A72BE297B600753D76 /* AlignmentGuideBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0688A62BE297B600753D76 /* AlignmentGuideBootcamp.swift */; };
 		AF17C6C429056F6A00F32939 /* PhotoModelCacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF17C6C329056F6A00F32939 /* PhotoModelCacheManager.swift */; };
 		AF17C6C6290570A400F32939 /* PhotoModelFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF17C6C5290570A400F32939 /* PhotoModelFileManager.swift */; };
 		AF2EC42E28F5951000AD8136 /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2EC42D28F5951000AD8136 /* CoreDataBootcamp.swift */; };
@@ -57,6 +58,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF0688A62BE297B600753D76 /* AlignmentGuideBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentGuideBootcamp.swift; sourceTree = "<group>"; };
 		AF17C6C329056F6A00F32939 /* PhotoModelCacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelCacheManager.swift; sourceTree = "<group>"; };
 		AF17C6C5290570A400F32939 /* PhotoModelFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelFileManager.swift; sourceTree = "<group>"; };
 		AF2EC42D28F5951000AD8136 /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				AFDBCF482AB1F9550076EB6F /* AccessibilityTextBootcamp.swift */,
 				AF6065C62B87B04D00D09B9D /* AccessibilityColorsBootcamp.swift */,
 				AF845AB22BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift */,
+				AF0688A62BE297B600753D76 /* AlignmentGuideBootcamp.swift */,
 				AF53AE3328EEFD12004816EC /* Assets.xcassets */,
 				AF53AE3528EEFD12004816EC /* Preview Content */,
 			);
@@ -345,6 +348,7 @@
 				AF82519428FAE9C70002603F /* WeakSelfBootcamp.swift in Sources */,
 				AF53AE3028EEFD10004816EC /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
 				AFDBCF492AB1F9550076EB6F /* AccessibilityTextBootcamp.swift in Sources */,
+				AF0688A72BE297B600753D76 /* AlignmentGuideBootcamp.swift in Sources */,
 				AF53AE4028EF0268004816EC /* MagnificationGestureBootcamp.swift in Sources */,
 				AFEA62D1290562CD00100030 /* ImageLoadingViewModel.swift in Sources */,
 				AF76C8C828F04D1100BC2DC8 /* GeometryReaderBootcamp.swift in Sources */,
