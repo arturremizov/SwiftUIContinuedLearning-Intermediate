@@ -25,6 +25,7 @@
 		AF53AE4228EF07A9004816EC /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF53AE4128EF07A9004816EC /* RotationGestureBootcamp.swift */; };
 		AF5BA0B92900194C0009C5AD /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5BA0B82900194C0009C5AD /* FileManagerBootcamp.swift */; };
 		AF5BA0BB2900332D0009C5AD /* CacheBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5BA0BA2900332D0009C5AD /* CacheBootcamp.swift */; };
+		AF5C7D8F2BED21EB00B3544D /* VisualEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5C7D8E2BED21EB00B3544D /* VisualEffectBootcamp.swift */; };
 		AF5D979128F19F5900151816 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5D979028F19F5900151816 /* MaskBootcamp.swift */; };
 		AF5D979328F1A3DF00151816 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5D979228F1A3DF00151816 /* SoundsBootcamp.swift */; };
 		AF5D979628F1A87700151816 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF5D979528F1A87700151816 /* badum.mp3 */; };
@@ -77,6 +78,7 @@
 		AF53AE4128EF07A9004816EC /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		AF5BA0B82900194C0009C5AD /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		AF5BA0BA2900332D0009C5AD /* CacheBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheBootcamp.swift; sourceTree = "<group>"; };
+		AF5C7D8E2BED21EB00B3544D /* VisualEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectBootcamp.swift; sourceTree = "<group>"; };
 		AF5D979028F19F5900151816 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		AF5D979228F1A3DF00151816 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		AF5D979528F1A87700151816 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				AF6065C62B87B04D00D09B9D /* AccessibilityColorsBootcamp.swift */,
 				AF845AB22BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift */,
 				AF0688A62BE297B600753D76 /* AlignmentGuideBootcamp.swift */,
+				AF5C7D8E2BED21EB00B3544D /* VisualEffectBootcamp.swift */,
 				AF53AE3328EEFD12004816EC /* Assets.xcassets */,
 				AF53AE3528EEFD12004816EC /* Preview Content */,
 			);
@@ -362,6 +365,7 @@
 				AFEA62CF2905625300100030 /* DownloadingImageView.swift in Sources */,
 				AF6065C72B87B04D00D09B9D /* AccessibilityColorsBootcamp.swift in Sources */,
 				AF53AE3E28EEFD61004816EC /* LongPressGestureBootcamp.swift in Sources */,
+				AF5C7D8F2BED21EB00B3544D /* VisualEffectBootcamp.swift in Sources */,
 				AF53AE4228EF07A9004816EC /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -499,6 +503,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -528,6 +533,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
