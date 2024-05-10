@@ -16,6 +16,7 @@
 		AF4D40C428F441C40082A42C /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4D40C328F441C40082A42C /* ArraysBootcamp.swift */; };
 		AF4E5F1628FD8064008265B6 /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4E5F1528FD8064008265B6 /* DownloadWithEscapingBootcamp.swift */; };
 		AF4E5F1828FD9033008265B6 /* DownloadWithCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4E5F1728FD9033008265B6 /* DownloadWithCombineBootcamp.swift */; };
+		AF4EE34F2BEE774800CD6A4F /* ScrollViewPagingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4EE34E2BEE774800CD6A4F /* ScrollViewPagingBootcamp.swift */; };
 		AF53AE3028EEFD10004816EC /* SwiftfulThinkingContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF53AE2F28EEFD10004816EC /* SwiftfulThinkingContinuedLearningApp.swift */; };
 		AF53AE3228EEFD10004816EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF53AE3128EEFD10004816EC /* ContentView.swift */; };
 		AF53AE3428EEFD12004816EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF53AE3328EEFD12004816EC /* Assets.xcassets */; };
@@ -68,6 +69,7 @@
 		AF4D40C328F441C40082A42C /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
 		AF4E5F1528FD8064008265B6 /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
 		AF4E5F1728FD9033008265B6 /* DownloadWithCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombineBootcamp.swift; sourceTree = "<group>"; };
+		AF4EE34E2BEE774800CD6A4F /* ScrollViewPagingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPagingBootcamp.swift; sourceTree = "<group>"; };
 		AF53AE2C28EEFD10004816EC /* SwiftfulThinkingContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF53AE2F28EEFD10004816EC /* SwiftfulThinkingContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingContinuedLearningApp.swift; sourceTree = "<group>"; };
 		AF53AE3128EEFD10004816EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 				AF845AB22BBDB7E700609107 /* AccessibilityVoiceOverBootcamp.swift */,
 				AF0688A62BE297B600753D76 /* AlignmentGuideBootcamp.swift */,
 				AF5C7D8E2BED21EB00B3544D /* VisualEffectBootcamp.swift */,
+				AF4EE34E2BEE774800CD6A4F /* ScrollViewPagingBootcamp.swift */,
 				AF53AE3328EEFD12004816EC /* Assets.xcassets */,
 				AF53AE3528EEFD12004816EC /* Preview Content */,
 			);
@@ -324,6 +327,7 @@
 			files = (
 				AF96517428FC2CFF007BEB5E /* EscapingBootcamp.swift in Sources */,
 				AF2EC43128F5971A00AD8136 /* FruitsContainer.xcdatamodeld in Sources */,
+				AF4EE34F2BEE774800CD6A4F /* ScrollViewPagingBootcamp.swift in Sources */,
 				AF769DE028F2FBDE002AF35C /* HashableBootcamp.swift in Sources */,
 				AF5D979328F1A3DF00151816 /* SoundsBootcamp.swift in Sources */,
 				AF17C6C6290570A400F32939 /* PhotoModelFileManager.swift in Sources */,
